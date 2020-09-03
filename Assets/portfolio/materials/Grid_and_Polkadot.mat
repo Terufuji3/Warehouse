@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Grid_and_Polkadot
+  m_Shader: {fileID: 4800000, guid: 2589affa825b28c4e92eb6638b975e7a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _HorizontalLineTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PolkaBackgroundTexture:
+        m_Texture: {fileID: 2800000, guid: 95a6d6db910472e448b922f3ac3778c7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PolkaTexture:
+        m_Texture: {fileID: 2800000, guid: 3b45a1f5874e31f47a1aa1699d67ea2d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VerticalLineTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _CrossLinePriority: 0.5
+    - _HorizontalLineNum: 30
+    - _HorizontalLineWidth: 0.3
+    - _HorizontalScrollSpeed: 1
+    - _Para: 0
+    - _PolkaDotScrollSpeedX: 0
+    - _PolkaDotScrollSpeedY: 0
+    - _PolkaDotTextureScrollSpeedX: 0.21
+    - _PolkaDotTextureScrollSpeedY: -0.12
+    - _PolkaNumX: 100
+    - _PolkaNumY: 100
+    - _PolkaRadius: 0.253
+    - _VerticalLineNum: 30
+    - _VerticalLineWidth: 0.3
+    - _VerticalScrollSpeed: 1
+    m_Colors:
+    - _HorizontalLineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _MainCol: {r: 1, g: 0, b: 0, a: 1}
+    - _PolkaBackgroundCol: {r: 1, g: 1, b: 1, a: 1}
+    - _PolkaCol: {r: 1, g: 1, b: 1, a: 1}
+    - _VerticalLineColor: {r: 1, g: 1, b: 0, a: 1}

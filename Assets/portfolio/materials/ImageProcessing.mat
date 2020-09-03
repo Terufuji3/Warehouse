@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ImageProcessing
+  m_Shader: {fileID: 4800000, guid: 5be9b514a7c098d429d27c7696171300, type: 3}
+  m_ShaderKeywords: Blur
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _Binarization: 0
+    - _BinarizationThreshold: 0.07
+    - _Bloom: 0
+    - _BloomBlur: 74
+    - _BloomStrength: 8.4
+    - _BlurActive: 1
+    - _BlurFactor: 0.018
+    - _CA: 0
+    - _CASize: 0.09
+    - _ColorInterpolation: 0
+    - _ColorInversion: 0
+    - _Colorjack: 0
+    - _DoubleZoom: 0
+    - _DoubleZoomScale: 0
+    - _Grayscale: 0
+    - _RadialBlur: 0
+    - _RadialBlurStrength: 0.48
+    - _RadialSampleCount: 30
+    - _RotationAngle: 2.2
+    - _RotationWindow: 0
+    - _Shake: 0
+    - _ShakeAmplitude: 61
+    - _ShakeSpeed: 92
+    - _Zoom: 0
+    - _ZoomScale: 1
+    m_Colors:
+    - _JackColor: {r: 0, g: 0, b: 0, a: 1}
