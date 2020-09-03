@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _Contrast: 4.8
+    - _Contrast: 20.5
     - _ContrastDeg: 1
     - _Strength: 1
     m_Colors:

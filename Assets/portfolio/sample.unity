@@ -275,6 +275,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Grid_and_Polkadot
       objectReference: {fileID: 0}
+    - target: {fileID: 398479816011376390, guid: f642cd80dffa0184aa2701e2e26bade4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 398479816011376391, guid: f642cd80dffa0184aa2701e2e26bade4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -343,6 +348,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: distance_gradation
+      objectReference: {fileID: 0}
+    - target: {fileID: 5603606618700682102, guid: bce55240b2beae041868358281a11f5d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6706709284743850558, guid: bce55240b2beae041868358281a11f5d,
         type: 3}
@@ -468,6 +478,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: GamingOutline
       objectReference: {fileID: 0}
+    - target: {fileID: 754157459770386457, guid: d73c9d0fb59f33a48ac461e9361f48dd,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d73c9d0fb59f33a48ac461e9361f48dd, type: 3}
 --- !u!1001 &1475617455266214192
@@ -482,6 +497,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: geom_circle
       objectReference: {fileID: 0}
+    - target: {fileID: 1475617455213445705, guid: 4ef2ecce69ccaec45b96405af98cbe3d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1475617455213445708, guid: 4ef2ecce69ccaec45b96405af98cbe3d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -490,12 +510,12 @@ PrefabInstance:
     - target: {fileID: 1475617455213445708, guid: 4ef2ecce69ccaec45b96405af98cbe3d,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.98
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1475617455213445708, guid: 4ef2ecce69ccaec45b96405af98cbe3d,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.09
+      value: -0.14
       objectReference: {fileID: 0}
     - target: {fileID: 1475617455213445708, guid: 4ef2ecce69ccaec45b96405af98cbe3d,
         type: 3}
@@ -550,6 +570,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: geom_DummyReflection
+      objectReference: {fileID: 0}
+    - target: {fileID: 1608887445456653139, guid: 832a0acf592019840b378832ac8117b2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1608887445456653142, guid: 832a0acf592019840b378832ac8117b2,
         type: 3}
@@ -619,6 +644,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ImageProcessing
+      objectReference: {fileID: 0}
+    - target: {fileID: 3553734888188100657, guid: 863843fd254747548b316ac7d4203718,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9017436805680738169, guid: 863843fd254747548b316ac7d4203718,
         type: 3}
@@ -744,6 +774,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: geom_NormalSeparate
       objectReference: {fileID: 0}
+    - target: {fileID: 2257136521906813673, guid: 1b4f33886d37a274b8f734963156f415,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1b4f33886d37a274b8f734963156f415, type: 3}
 --- !u!1001 &3399662359525424330
@@ -757,6 +792,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: GamingSurface
+      objectReference: {fileID: 0}
+    - target: {fileID: 3399662359053277352, guid: 5a702100dd183d64b98e033be16d574c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3399662359053277359, guid: 5a702100dd183d64b98e033be16d574c,
         type: 3}
@@ -827,6 +867,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: z_projection
       objectReference: {fileID: 0}
+    - target: {fileID: 4924631571110902478, guid: e56bbc0a15636194394fb5ef44fa3d06,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4926144801195525048, guid: e56bbc0a15636194394fb5ef44fa3d06,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -895,6 +940,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Contrast_and_Glow
+      objectReference: {fileID: 0}
+    - target: {fileID: 6584511744923670414, guid: 136741ce35eebfb4a8c39583274f69f4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6584511744923670415, guid: 136741ce35eebfb4a8c39583274f69f4,
         type: 3}
